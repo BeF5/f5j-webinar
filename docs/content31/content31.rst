@@ -9,6 +9,25 @@ F5 XC Webinar ライブラリ
    本資料の画面表示や名称は資料作成時点の画面表示を利用しております。アップデート等より表示が若干異なる場合がございます。
 
 
+
+
+F5 XC WAAP
+==============================================
+
+- F5 XC WAAP セキュリティグッドプラクティスガイド
+
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/GdI7qdlqdME" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
+
+:download:`資料をダウンロードできます <images/F5XC_WAAP_Good_Practice_Guide.pdf>`
+
+
+
 F5 XC DNS
 ==============================================
 
