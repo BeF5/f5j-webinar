@@ -14,8 +14,6 @@ F5 XC DNS
 
 - F5 XC DNS 概要と設定
 
-  資料のダウンロードは `こちらをクリック <images/F5XC_DNS概要と設定.pdf>`_ . 
-
 
 .. raw:: html
 
@@ -24,12 +22,4 @@ F5 XC DNS
     </div>
 
 
-
 :download:`ダウンロードできます <images/F5XC_DNS概要と設定.pdf>`
-
-
-
-.. figure:: `資料 <images/F5XC_DNS概要と設定.pdf>`.
-
-
-
