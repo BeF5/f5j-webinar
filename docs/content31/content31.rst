@@ -26,4 +26,5 @@ F5 XC DNS
 
 
 
+.. figure:: images/F5XC_DNS概要と設定.pdf
 
