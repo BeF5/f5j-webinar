@@ -2,7 +2,7 @@ F5 XC デモ動画 ライブラリ
 ==============================================
 最終更新日: 2024年5月31日
 
-- F5 Distributed Cloud Services(以下、XC)でのdemo動画および資料を公開します。
+- F5 Distributed Cloud Services(以下、XC)でのdemo動画を公開します。
 
 
 .. note::
