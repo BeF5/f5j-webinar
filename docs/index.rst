@@ -12,12 +12,12 @@ F5 Webinar　解説資料・動画ライブラリ
 
 - F5 XC 活用資料集サイト
 
- `こちらをクリック <https://f5.highspot.com/viewer/660f5c9ba01a7be13278581c>`_してください。
+  `こちらをクリック <https://f5.highspot.com/viewer/660f5c9ba01a7be13278581c>`_ してください。
 
 
 .. toctree::
    :titlesonly:
-   :caption: コンテンツ
+   :caption: Webinar・デモ動画
    :glob:
 
    content*/content*
