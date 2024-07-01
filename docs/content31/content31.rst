@@ -27,7 +27,6 @@ F5 XC WAAP
 :download:`資料をダウンロードできます <images/F5XC_WAAP構成概要.pdf>`
 
 
-
 - F5 XC WAAP セキュリティグッドプラクティスガイド
 
 
@@ -40,6 +39,15 @@ F5 XC WAAP
 
 :download:`資料をダウンロードできます <images/F5XC_WAAP_Good_Practice_Guide.pdf>`
 
+
+- F5 XC Synthetic Monitoring 外形監視設定手順
+
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/a9pSHS-e4xY" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
 
 
 - F5 XC Client-Side Defenseのご紹介
