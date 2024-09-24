@@ -21,8 +21,7 @@ F5 BIG-IP Next
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe src="https://www.youtube.com/embed/9ExJiL64m1M" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div><br><br><br><br><br><br><br><br><br><br><br><br>
-
+    </div><br><br><br><br>
 
 
 - F5 BIG-IP Next TMOSからのアプリケーション移行手順  
@@ -32,7 +31,7 @@ F5 BIG-IP Next
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe src="https://www.youtube.com/embed/_TL04ABvzgA" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div><br><br>
+    </div><br><br><br><br>
 
 
 
@@ -43,7 +42,7 @@ F5 BIG-IP Next
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div><br><br>
+    </div><br><br><br><br>
 
 
 
@@ -54,7 +53,7 @@ F5 BIG-IP Next
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe src="https://www.youtube.com/embed/bgmH6-sAC14" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div><br><br>
+    </div><br><br><br><br>
 
 
 
@@ -65,7 +64,7 @@ F5 BIG-IP Next
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe src="https://www.youtube.com/embed/S3MQChSiseM" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div><br><br>
+    </div><br><br><br><br>
 
 
 
@@ -76,7 +75,7 @@ F5 BIG-IP Next
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe src="https://www.youtube.com/embed/BxKhrsl6wMg" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div><br><br>
+    </div><br><br><br><br>
 
 
 
@@ -87,5 +86,5 @@ F5 BIG-IP Next
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe src="https://www.youtube.com/embed/37EuGFnH_kk" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div><br><br>
+    </div><br><br><br><br>
 
