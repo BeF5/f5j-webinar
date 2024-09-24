@@ -35,6 +35,18 @@ F5 BIG-IP Next
     </div>
 
 
+
+- F5 BIG-IP Next HAセットアップ手順　デモ紹介（字幕・BGMのみ）
+
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
+
+
 - F5 BIG-IP Next Central Manager アップグレード　デモ紹介（字幕・BGMのみ）
 
 
@@ -47,17 +59,6 @@ F5 BIG-IP Next
 
 
 - F5 BIG-IP Next Instance アップグレード　デモ紹介（字幕・BGMのみ）
-
-
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
-
-
-
-- F5 BIG-IP Next HAセットアップ手順　デモ紹介（字幕・BGMのみ）
 
 
 .. raw:: html
