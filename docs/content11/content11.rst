@@ -1,4 +1,4 @@
-F5 BIG-IP Webinar ライブラリ
+F5 BIG-IP Webinar・デモ動画 ライブラリ
 ==============================================
 最終更新日: 2024年9月27日
 
@@ -41,6 +41,17 @@ F5 BIG-IP Next
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe src="https://www.youtube.com/embed/TuE6eu8yJUs" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div><br><br><br><br>
+
+
+
+- F5 BIG IP Next HTTPSアプリケーション設定手順　デモ紹介（字幕・BGMのみ）
+
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/CEP4siRX6jw" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div><br><br><br><br>
 
 
