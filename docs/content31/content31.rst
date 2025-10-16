@@ -64,3 +64,5 @@ F5 XC DNS
 
 :download:`資料をダウンロードできます <images/F5XC_DNS概要と設定.pdf>`
 
+:download:`資料をダウンロードできます <images/F5update.pdf>`
+
